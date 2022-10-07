@@ -27,7 +27,9 @@ SECRET_KEY = 'django-insecure-cfpeg(n$#xds$tqg%3eutd)+p@&=9lulq-^(&wkf0&xx+h10p7
 DEBUG = True
 
 ALLOWED_HOSTS = []
+
 CORS_ALLOW_ALL_ORIGINS = True
+
 CORS_ALLOWED_ORIGINS = [
     "https://example.com",
     "https://sub.example.com",
