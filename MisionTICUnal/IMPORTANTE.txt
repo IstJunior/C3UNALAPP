@@ -1,0 +1,4 @@
+************TRABAJO INDIVIDUAL***********
+
+1.En la carpeta hpc se encuentra el proyecto en vue (frontend) al momento de probar el proyecto es necesario instalar nuevamente la carpeta node_modules
+2.En la carpeta app-unal-ciclo-3 se encuentra el backend
